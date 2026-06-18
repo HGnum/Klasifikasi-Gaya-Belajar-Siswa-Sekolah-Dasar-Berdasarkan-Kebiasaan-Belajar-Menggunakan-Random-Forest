@@ -1,0 +1,9 @@
+No,Variable,Role,Data Type
+1,Intensitas_Belajar,Feature,Categorical
+2,Fokus_Belajar,Feature,Categorical
+3,Disiplin_Belajar,Feature,Categorical
+4,Interaksi_Belajar,Feature,Categorical
+5,Teknologi,Feature,Categorical
+6,Lingkungan_Belajar,Feature,Categorical
+7,Waktu_Efektif,Feature,Categorical
+8,Gaya_Belajar,Target,Categorical
