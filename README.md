@@ -112,12 +112,6 @@ pip install -r requirements.txt
 python src/learning_style_classification.py
 ```
 
-Alternatively, the notebook version can be opened from:
-
-```text
-notebooks/learning_style_classification.ipynb
-```
-
 ## Project Status
 
 This repository currently focuses on the machine learning modeling stage.
